@@ -1,8 +1,8 @@
 #### scrollbar 说明文档
 
 * ###### demo 示例
-	1. [http://v3.faqrobot.org/hvb/jquery-plugins/scrollbar/demo.html](http://v3.faqrobot.org/hvb/jquery-plugins/scrollbar/demo.html)
-
+	1. [http://colonel.pro/scrollbar/]
+]
 * ###### 功能简介
 	1. 该插件需要配合 *jquery.mousewheel* 使用
 	2. 可自定义滚动条样式
