@@ -1,8 +1,6 @@
 /**
 * jquery.scrollbar.js
 * 
-* Copyright (c) 2016/5/25 Han Wenbo
-*
 **/
 
 ;(function($, window, document, undefined) {
